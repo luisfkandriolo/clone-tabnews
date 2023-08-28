@@ -8,6 +8,7 @@ function Home() {
     >
       <h1>Em construção...</h1>
       <h3>projeto: clone-tabsnews</h3>
+      <h6>Pipi mole</h6>
     </div>
   );
 }
